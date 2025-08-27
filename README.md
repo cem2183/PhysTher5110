@@ -15,3 +15,8 @@ My name is Chelsea Macpherson, I am originally from Canada. I am a physical ther
 - Topic Coding
 - Topic OpenScience
 - Topic Data Viz
+
+## Favorite Open Science Tools
+- R
+- GitHub
+
